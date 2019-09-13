@@ -3,21 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/speak/SpeakMeowBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/eat/EatMeatBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/Utils.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/speak/SpeakRoarBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/StrategyMain.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/CyborgAnimal.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/move/MoveFlyBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/eat/EatGrainBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/log/ILogBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/log/LogStarsBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/speak/ISpeakBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/eat/IEatBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/log/LogDotsBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/move/IMoveBehavior.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/strategy/move/MoveWalkBehavior.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/facade/HungryCustomer.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/facade/FacadeMain.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/facade/ShopPersonnel.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/facade/PizzaShopFacade.java</file>
         </group>
     </open-files>
 </project-private>
