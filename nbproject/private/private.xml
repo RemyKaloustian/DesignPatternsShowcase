@@ -3,13 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/decorator/MilitaryVehicle.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/decorator/Tank.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/decorator/Chopper.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/decorator/GuidedMissileDecorator.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/decorator/DecoratorMain.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/decorator/MachineGunDecorator.java</file>
-            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/decorator/MilitaryVehicleDecorator.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/MacOsModal.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/MacOsUIFactory.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/LinuxUIFactory.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/AbstractUIFactory.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/LinuxModal.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/WindowsUIFactory.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/Modal.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/MacOsButton.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/LinuxButton.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/singleton/Sun.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/Button.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/singleton/SingletonMain.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/AbstractFactoryMain.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/WindowsModal.java</file>
+            <file>file:/C:/Users/Rémy%20Kaloustian/Desktop/WORK/DesignPatternsShowcase/src/designpatternsshowcase/abstractfactory/WindowsButton.java</file>
         </group>
     </open-files>
 </project-private>
